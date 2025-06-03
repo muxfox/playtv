@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNNWtoQmdlM0NvUllZYlJDUmpVOWZEWlpHVTJLUU9SekRERHRNd2N4L1VpRVVzZ3U5ejdGMVB0TU50cDZPbWVVZ2ZMZlFTNm1TS2E3QnUva0MvdzUxRkR6bVp2eWg2ejgxM3o1amhudmlKUUozOUJ5R1Z4bnljY1pOcm51NVNoVHdnPT0=
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNNWtoQmdlM0NvUllZYlJDUmpVOWZEWlpHVTJLUU9SekRERHRNd2N4L1VpRVVzZ3U5ejdGMVB0TU50cDZPbWVVZ1NPOVNhQm11ZDRHOTMwUnc0ODE0alRjaEpWQzFPL0lrdUJERUVrU1AvOERKcXJoS25sbEh3WkZLb3FMNmFQMktBPT0=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
