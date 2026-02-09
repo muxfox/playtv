@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="My Movies" tvg-logo="", Movie Stream Name
+https://proxy.valhallastream.dpdns.org/proxy?url=https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fd161e66d60f34e8c9c30065cc6e28def.mp4%3Fsign%3Dc0819f2f1ace9680c96d53c82b09bc0e%26t%3D1770634805&headers=%7B%22Referer%22%3A%22https%3A%2F%2Ffilmboom.top%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Ffilmboom.top%22%7D
